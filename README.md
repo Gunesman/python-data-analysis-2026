@@ -1,2 +1,6 @@
-# python-data-analysis-2026
-Daily Python &amp; Data Analysis practice — Prep. Data Analysis course exercises, assignments, and projects (2026)
+# Python Data Analysis 2026
+
+Daily practice repo for my Data Analysis learning journey — exercises, 
+assignments, and projects from the Prep. Data Analysis course.
+
+Started fresh in 2026 after consolidating my Data Analytics foundation.
